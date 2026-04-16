@@ -1,0 +1,6 @@
+discord.py
+flask
+flask-cors
+python-dotenv
+aiohttp
+gunicorn
